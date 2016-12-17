@@ -1,0 +1,6 @@
+/*
+!.gitignore
+!src/
+!makefile
+!main.rkt
+!Cargo.toml
